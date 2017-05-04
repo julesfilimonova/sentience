@@ -1,2 +1,3 @@
 # sentience
-just another repository
+making changes to the original master file
+mention tacos
